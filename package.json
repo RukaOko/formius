@@ -1,0 +1,31 @@
+{
+  "name": "formius",
+  "version": "1.0.10",
+  "description": "Form builder for React Native developers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React-Native-form",
+    "Form-builder"
+  ],
+  "author": "Horoshilov Alexander",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RukaOko/formius"
+  },
+  "bugs": {
+    "url": "https://github.com/RukaOko/formius/issues"
+  },
+  "homepage": "https://github.com/RukaOko/formius",
+  "dependencies": {
+    "expo-image-manipulator": "~8.1.0",
+    "expo-image-picker": "~8.1.0",
+    "expo-permissions": "~8.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^8.1.0"
+  }
+}
